@@ -1,16 +1,8 @@
 # task_flutter_2_counter_cubit
 
-A new Flutter project.
+## Ini Jika kelipatan 5 maka akan muncul bintang dan "you got" (angkanya)
+![image](https://github.com/user-attachments/assets/9f0c3781-0f96-4157-92f6-6e601940c159)
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/6e2e2996-19d9-47e2-b658-bc637c74d687)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
